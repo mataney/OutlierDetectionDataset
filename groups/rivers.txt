@@ -1,0 +1,17 @@
+danube
+rhine
+volga
+tiber
+nile
+mekong
+zambezi
+amazon
+
+kilimanjaro
+gobi 
+albania
+sydney
+water
+airport
+shark
+bible

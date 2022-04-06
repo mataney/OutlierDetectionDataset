@@ -1,0 +1,17 @@
+helium
+argon
+hydrogen
+nitrogen
+oxygen
+fluorine
+chlorine
+krypton
+
+methane
+silver
+brass
+atom
+water
+spectrum
+speak
+asphalt

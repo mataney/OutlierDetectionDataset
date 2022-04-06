@@ -1,0 +1,17 @@
+arm
+finger
+leg
+foot
+ear
+eye
+abdomen
+head
+
+blood
+hormone
+person
+doctor
+jewelry
+injury
+pants
+skyscrapers

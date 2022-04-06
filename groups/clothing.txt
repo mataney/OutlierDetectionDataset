@@ -1,0 +1,17 @@
+pants
+shirt
+hat
+jacket
+skirt
+shirt
+shorts
+boot
+
+cloth
+pillow
+cotton
+paper
+needlework
+keyboard
+computer
+germany

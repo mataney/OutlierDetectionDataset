@@ -1,0 +1,17 @@
+montgomery
+atlanta
+honolulu
+boston
+austin
+nashville
+albany
+phoenix
+
+canada
+oregon
+fresno
+denmark
+paris
+europe
+university
+shrub

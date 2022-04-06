@@ -1,0 +1,17 @@
+parrot
+hummingbird
+owl
+penguin
+vulture
+heron
+stork
+crane
+
+bee
+tiger
+airplane
+plumage
+eggs
+humans
+grandmother
+academy

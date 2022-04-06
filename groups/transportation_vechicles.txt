@@ -1,0 +1,17 @@
+plane
+car
+truck
+bicycle
+van
+bus
+motorcycle
+balloon
+
+house
+seat
+journey
+road
+shore
+tree
+skyscraper
+refrigerator

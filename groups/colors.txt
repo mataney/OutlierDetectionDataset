@@ -1,0 +1,17 @@
+black
+white
+green
+yellow
+pink
+purple
+red
+gold
+
+hue
+saturation
+painter
+canvas
+pencil
+pixel
+complimentary
+radioactive

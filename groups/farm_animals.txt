@@ -1,0 +1,17 @@
+cow
+sheep
+goat
+horse
+pig
+goose
+donkey
+turkey
+
+tiger
+gorilla
+hedgehog
+sister
+mineral
+poultry
+ghost
+basket

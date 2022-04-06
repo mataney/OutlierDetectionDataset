@@ -1,0 +1,17 @@
+crocodile
+elephant
+gorilla
+gazelle
+lion
+buffalo
+leopard
+python
+
+lowland
+albino
+jungle
+savanna
+safari
+animal
+sandwich
+coast

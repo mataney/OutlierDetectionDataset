@@ -1,0 +1,17 @@
+coffee
+tea
+water
+wine
+beer
+milk
+whiskey
+slush
+
+alcohol
+thirst
+waiter
+snack
+fruit
+waterfall
+ocean
+throne
